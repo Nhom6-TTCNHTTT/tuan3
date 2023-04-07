@@ -3,7 +3,7 @@ package Function_Oriented;
 import java.util.InputMismatchException;
 import java.util.Scanner;
 
-public class Bai12 {
+public class MaTran {
 	// Phương thức nhập vào kích thước mảng
 	public static int int_input(Scanner sc) {
 		int n = 0;
