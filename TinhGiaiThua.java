@@ -2,7 +2,7 @@ package Function_Oriented;
 import java.util.InputMismatchException;
 import java.util.Scanner;
 
-public class Bai03 {
+public class TinhGiaiThua {
 	// Phương thức nhập vào 1 số
 	public static int input() {
 		int n = 0;
