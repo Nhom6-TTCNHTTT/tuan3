@@ -2,7 +2,7 @@ package Function_Oriented;
 import java.util.InputMismatchException;
 import java.util.Scanner;
 
-public class Bai04 {
+public class TinhToHop {
 	// Phương thức nhập vào 1 số
 	public static int input(Scanner sc) {
 		int n = 0;
