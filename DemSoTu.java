@@ -5,7 +5,7 @@ import java.util.Scanner;
 
 //Đếm xem trong một chuỗi xuất hiện bao nhiêu từ. “Hello world” -> 2
 
-public class Bai16 {
+public class DemSoTu {
 	// Phương thức trả về số từ trong 1 chuỗi
 	public static int count(String a) {
 		int c = 0, i = 0, l = a.length();
