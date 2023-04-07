@@ -5,7 +5,7 @@ import java.util.Scanner;
 
 //Viết chương trình viết hoa chỉ các ký tự đầu từ trong một chuỗi. “Nguyễn Văn Abc”
 
-public class Bai17 {
+public class VietHoaKyTuDau {
 	public static String a;
 
 	// Phương thức viết hoa kí tự đầu các từ trong 1 chuỗi
