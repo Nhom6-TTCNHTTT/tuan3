@@ -6,7 +6,7 @@ import java.util.Scanner;
 
 //Viết chương trình cắt ra một số lượng từ nhất định trong một chuỗi đã cho.
 
-public class Bai19 {
+public class LayRaKyTuChuoi {
 	public static String a;
 
 	// Phương thức nhập vào kích thước mảng
