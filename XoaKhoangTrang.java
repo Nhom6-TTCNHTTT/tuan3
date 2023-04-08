@@ -1,4 +1,4 @@
-package LearnJAVA.OOP_JAVA.JavaCore.String;
+package tuan3;
 
 import java.util.Scanner;
 public class XoaKhoangTrang {
