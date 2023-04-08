@@ -1,4 +1,4 @@
-package LearnJAVA.OOP_JAVA.JavaCore;
+package tuan3;
 
 public class Dequy {
     static int Acker(int m, int n){
